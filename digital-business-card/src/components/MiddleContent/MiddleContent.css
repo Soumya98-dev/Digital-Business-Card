@@ -1,0 +1,29 @@
+.middle-content {
+  margin-left: 7rem;
+  margin-top: 3rem;
+}
+
+h1 {
+  color: #f5f5f5;
+  font-size: 32px;
+}
+
+p {
+  width: 80%;
+  padding-top: 15px;
+  font-size: 20px;
+  color: #dcdcdc;
+}
+
+.about {
+  margin-bottom: 20px;
+}
+
+@media only screen and (max-width: 1030px) {
+  .middle-content {
+    margin-left: 3rem;
+  }
+  p{
+    width: 90%;
+  }
+}

@@ -4,3 +4,16 @@
     box-sizing: border-box;
     background-color: #1A1B21;
 }
+
+.container{
+    margin: 1rem auto ;
+    border: 2px solid white;
+    width: 40%;
+    box-shadow: 12px 12px 12px 18px rgba(229, 229, 255, 0.2);
+}
+
+@media only screen and (max-width: 1030px) {
+  .container{
+    width: 80%;
+  }
+}
