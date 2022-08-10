@@ -1,0 +1,41 @@
+
+.header-part {
+    text-align: center;
+}
+
+.header-part > img {
+    width: 450px;
+    height: 400px;
+    margin: 2rem auto;
+}
+
+.credentials > h1 {
+    color: #F5F5F5;
+    padding-bottom: 0.5rem;
+}
+
+.credentials > h4 {
+    color: #F3BF99;
+    font-size: 20px;
+    padding-bottom: 1.5rem;
+}
+
+.credentials > a {
+    color: #F5F5F5;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.btns {
+    padding-top: 1.5rem;
+}
+
+.btns > a {
+    margin: 1rem;
+}
+
+.linkedin-btn-img {
+    margin-bottom: 1px;
+    height: 58px;
+    width: 179px;
+}
